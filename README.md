@@ -1,13 +1,13 @@
 # Basic Information
 This is the fusion stage training and inference of the VIPL-SLP submission for [CV-ISLR challenge](https://uq-cvlab.github.io/MM-WLAuslan-Dataset/docs/en/www).
 
-It worth noting that current version is unclean and needs a significant re-orgainzed. 
-
 # Data Preparation
-Download the estimated keypoints, extracted RGB and depth features from alipan, and put them under the root of project:
-- estimated keypoints: https://www.alipan.com/t/q5X0dN233lDMVAasaGyO
-- extracted RGB features: https://www.alipan.com/t/T42Rgvw0VtlaggJji7tM
-- extracted depth features: https://www.alipan.com/t/OI0nmWKwj71pE7epRx9e
+Download the estimated keypoints, extracted RGB and depth features from Google Drive, and put them under the root of project:
+- [estimated keypoints](https://drive.google.com/file/d/1S-eHeJUl9FIW2hVxG5x2zsT7zrRZANPo/view?usp=sharing)
+- [extracted RGB features](https://drive.google.com/file/d/1lkLmcapzl6zgpO0QkNM5PTDOgOHNez3z/view?usp=sharing)
+- [extracted depth features](https://drive.google.com/file/d/1PoDK9qucEUZ7twGorCp6xnDL_PH-lJ5Z/view?usp=sharing)
+
+Download the processed information dicts from [Google Drive](https://drive.google.com/drive/folders/1rDUcOBM2KMqjqAyz3uv-bPEo6QNBpP0y?usp=sharing), and put them in the ./data
 
 Feel free to contact us if the link is invalid.
 
